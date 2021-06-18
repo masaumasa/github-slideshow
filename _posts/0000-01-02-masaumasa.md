@@ -2,7 +2,7 @@
 layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
-何かを書く。
+Write something original
 戻るには戻るボタンを使いましょう！
 
 まだよくわかっていないけど、VSCodeを使わなかったらそれなりに進んでるっぽい
